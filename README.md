@@ -1,4 +1,8 @@
-<h1 align="center">👋 Hi, I'm Mohammad Athar Shareef</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&width=800&lines=Hi+There!+%F0%9F%91%8B;I'm+Mohammad+Athar+Shareef;Multi-Cloud+%26+Security+Enthusiast" alt="Typing Animation" />
+</div>
+
+
 
 <h3 align="center">☁️ Multi-Cloud & Security Enthusiast | AWS | Azure | Google Cloud | IAM | Python</h3>
 
@@ -76,17 +80,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharshareef7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharshareef7&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
 
 ## 📬 Contact  
 
