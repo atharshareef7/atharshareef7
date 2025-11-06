@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammad Athar Shareef  
 
-<!--
-**atharshareef7/atharshareef7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Bachelor’s in Computer Science and Engineering (CSE)**  
+☁️ Multi-Cloud & Security Enthusiast | AWS | Azure | Google Cloud | IAM | Python  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me  
+- 🔐 Passionate about building and securing **cloud infrastructures** across AWS, Azure, and Google Cloud.  
+- 💻 Experienced in **Identity and Access Management (IAM)**, **EC2 instance configuration**, and **policy-based access control**.  
+- 🌱 Continuously learning **cloud security**, **threat detection**, and **compliance management**.  
+- 🧩 Interested in integrating **DevSecOps practices** and **automation** into cloud environments.  
+- 📚 Love exploring cybersecurity fundamentals and documenting real-world, hands-on projects.  
+
+---
+
+### 🚀 Featured Projects  
+| Project | Description |
+|----------|--------------|
+| [**AWS IAM & EC2 Security Project**](https://github.com/atharshareef7/aws-iam-ec2-security-project) | Hands-on AWS project implementing secure access control with IAM policies, EC2 tagging, and environment isolation. |
+| 🔜 Coming Soon | Cloud Security Automation: Building event-driven access monitoring with AWS Lambda & Python |
+
+---
+
+### 🛠️ Skills & Tools  
+
+#### ☁️ **Cloud Platforms**
+- **Amazon Web Services (AWS):** IAM, EC2, CloudTrail, S3, Security Policies  
+- **Microsoft Azure:** Security, Compliance & Identity (SC-900 Concepts)  
+- **Google Cloud Platform (GCP):** Networking, IAM, and Cloud Security Basics  
+
+#### 🔐 **Cybersecurity & Access Management**
+- Identity and Access Management (IAM)  
+- Role-Based Access Control (RBAC)  
+- Principle of Least Privilege  
+- Cloud Security Architecture & Governance  
+- Threat Detection and Response (Concepts)  
+- Compliance Frameworks (ISO 27001, CIS Controls - Awareness Level)  
+
+#### ⚙️ **DevOps & Automation**
+- GitHub | CI/CD Fundamentals | Infrastructure Tagging | Cloud Automation (Intro)
+- DevSecOps Concepts (Security Integrated in Development Lifecycle)  
+
+#### 💻 **Programming & Tools**
+- **Languages:** Python (PCAP Certified), Bash, JSON, YAML  
+- **Tools:** AWS Console, Azure Portal, Google Cloud Console, Cisco NetAcad Labs  
+- **Version Control:** Git, GitHub  
+
+#### 🧠 **Soft Skills**
+- Problem Solving | Analytical Thinking | Technical Documentation | Security Mindset  
+
+---
+
+### 🏆 Certifications  
+
+| Certification | Provider |
+|----------------|-----------|
+| 🧭 **AWS Certified Cloud Practitioner** | Amazon Web Services |
+| 🔐 **AWS Security Best Practices: Overview** | AWS Training |
+| 🧩 **Microsoft Security, Compliance & Identity Fundamentals (SC-900 Concepts)** | Microsoft Learn |
+| ☁️ **Google Cloud Foundations: Networking & Security** | Google Cloud Skills Boost |
+| 🛡️ **Cisco Introduction to Cybersecurity** | Cisco Networking Academy |
+| 🐍 **PCAP – Programming Essentials in Python** | Cisco Networking Academy |
+
+---
+
+### 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/atharshareef7)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@email.com)  
+
+---
+
+⭐ *“Cloud Security is not just a practice — it’s the backbone of digital trust.”* ☁️🔐
