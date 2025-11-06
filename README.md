@@ -85,7 +85,7 @@
 
 📧 **Email:** [athar2196@gmail.com](mailto:athar2196@gmail.com)  
 💼 **LinkedIn:** [Mohammad Athar Shareef](https://www.linkedin.com/in/mohammad-athar-shareef-09181523a/)  
-🌐 **GitHub:** [atharshareef7](https://github.com/atharshareef7)  
+
 
 ---
 
