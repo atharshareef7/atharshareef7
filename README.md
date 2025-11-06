@@ -18,7 +18,7 @@
 | Project | Description |
 |----------|--------------|
 | [**AWS IAM & EC2 Security Project**](https://github.com/atharshareef7/aws-iam-ec2-security-project) | Hands-on AWS project implementing secure access control with IAM policies, EC2 tagging, and environment isolation. |
-| 🔜 Coming Soon | Cloud Security Automation: Building event-driven access monitoring with AWS Lambda & Python |
+
 
 ---
 
