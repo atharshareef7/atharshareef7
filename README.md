@@ -64,10 +64,10 @@
 
 ---
 
-### 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/atharshareef7)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@email.com)  
+### 📬 Contact
+📧 **Email:** athar2196@gmail.com  
+💼**LinkedIn:** [Mohammad Athar Shareef](https://www.linkedin.com/in/mohammad-athar-shareef-09181523a/)
+🌐 **GitHub:** [atharshareef7](https://github.com/atharshareef7)
 
 ---
 
