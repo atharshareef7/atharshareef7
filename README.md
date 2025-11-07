@@ -75,7 +75,26 @@
 ## 🧰 Tools & Technologies  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,python,java,c,linux,bash,mysql,git,github,vscode,docker,postman,terraform,html,css,js,cloudflare,powershell,kali,ubuntu&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" title="AWS" alt="AWS" width="55" height="55"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=azure&theme=dark" title="Azure" alt="Azure" width="55" height="55"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=gcp&theme=dark" title="Google Cloud" alt="Google Cloud" width="55" height="55"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" alt="Python" width="55" height="55"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" width="55" height="55"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" title="C" alt="C" width="55" height="55"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux" alt="Linux" width="55" height="55"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark" title="Bash" alt="Bash" width="55" height="55"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" alt="MySQL" width="55" height="55"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" width="55" height="55"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" alt="GitHub" width="55" height="55"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VS Code" alt="VS Code" width="55" height="55"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" width="55" height="55"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" title="Postman" alt="Postman" width="55" height="55"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" alt="HTML5" width="55" height="55"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" width="55" height="55"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" title="Cloudflare" alt="Cloudflare" width="55" height="55"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=powershell&theme=dark" title="PowerShell" alt="PowerShell" width="55" height="55"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=kali&theme=dark" title="Kali Linux" alt="Kali Linux" width="55" height="55"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" title="Ubuntu" alt="Ubuntu" width="55" height="55"/>&nbsp;
 </p>
 
 ---
