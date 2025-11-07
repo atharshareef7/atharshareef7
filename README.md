@@ -63,7 +63,7 @@
 
 | Certification | Provider |
 |----------------|-----------|
-| [🛡️ AWS Security Best Practices: Overview](./certifications/AWS_Security_Best_Practices.pdf) | AWS Training |
+| [🛡️ AWS Security Best Practices: Overview](./CERTIFICATIONS/AWS_Security_Best_Practices.pdf) | AWS Training |
 | [💠 Microsoft Security, Compliance & Identity Fundamentals (SC-900 Concepts)](./certifications/Microsoft_SC900.pdf) | Microsoft Learn |
 | [🟧 AWS Certified Cloud Practitioner](./certifications/AWS_Cloud_Practitioner.pdf) | Amazon Web Services |
 | [🔒 Cisco Introduction to Cybersecurity](./certifications/Cisco_Introduction_to_Cybersecurity.pdf) | Cisco Networking Academy |
