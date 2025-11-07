@@ -63,7 +63,7 @@
 
 | Certification | Provider |
 |----------------|-----------|
-| [🛡️ AWS Security Best Practices: Overview](https://github.com/atharshareef7/CERTIFICATIONS/blob/main/AWS_Security_Best_Practices.pdf) | AWS Training |
+| [🛡️ AWS Security Best Practices: Overview](https://github.com/atharshareef7/CERTIFICATIONS/blob/main/AWS_Security_Best_Practices.pdf) | AWS Web Services |
 | [💠 Microsoft Security, Compliance & Identity Fundamentals (SC-900 Concepts)](https://github.com/atharshareef7/CERTIFICATIONS/blob/main/Microsoft_SC900.pdf) | Microsoft Learn |
 | [🟧 AWS Certified Cloud Practitioner](https://github.com/atharshareef7/CERTIFICATIONS/blob/main/AWS_Cloud_Practitioner.pdf) | Amazon Web Services |
 | [🔒 Cisco Introduction to Cybersecurity](https://github.com/atharshareef7/CERTIFICATIONS/blob/main/Cisco_Introduction_to_Cybersecurity.pdf) | Cisco Networking Academy |
@@ -75,7 +75,7 @@
 ## 🧰 Tools & Technologies  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,python,bash,linux,docker,terraform,vscode,git,github,js,c,java,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,python,java,c,linux,bash,mysql,git,github,vscode,docker,postman,terraform,html,css,js,cloudflare,powershell,kali,ubuntu&theme=dark" />
 </p>
 
 ---
