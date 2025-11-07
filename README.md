@@ -74,7 +74,7 @@
 
 ## 🧰 Tools & Technologies  
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,python,java,c,linux,bash,mysql,git,github,vscode,docker,postman,terraform,html,css,js,cloudflare,powershell,kali,ubuntu&theme=dark" />
 </p>
 
