@@ -63,12 +63,12 @@
 
 | Certification | Provider |
 |----------------|-----------|
-| 🧭 **AWS Certified Cloud Practitioner** | Amazon Web Services |
-| 🔐 **AWS Security Best Practices: Overview** | AWS Training |
-| 🧩 **Microsoft Security, Compliance & Identity Fundamentals (SC-900 Concepts)** | Microsoft Learn |
-| ☁️ **Google Cloud Foundations: Networking & Security** | Google Cloud Skills Boost |
-| 🛡️ **Cisco Introduction to Cybersecurity** | Cisco Networking Academy |
-| 🐍 **PCAP – Programming Essentials in Python** | Cisco Networking Academy |
+| [🛡️ AWS Security Best Practices: Overview](./certifications/AWS_Security_Best_Practices.pdf) | AWS Training |
+| [💠 Microsoft Security, Compliance & Identity Fundamentals (SC-900 Concepts)](./certifications/Microsoft_SC900.pdf) | Microsoft Learn |
+| [🟧 AWS Certified Cloud Practitioner](./certifications/AWS_Cloud_Practitioner.pdf) | Amazon Web Services |
+| [🔒 Cisco Introduction to Cybersecurity](./certifications/Cisco_Introduction_to_Cybersecurity.pdf) | Cisco Networking Academy |
+| [☁️ Google Cloud Foundations: Networking & Security](https://www.skills.google/public_profiles/488a9d4f-76aa-4719-ae43-8a828263bbab/badges/19936458?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) | Google Cloud Skills Boost |
+| [🐍 PCAP – Programming Essentials in Python](./certifications/PCAP_Python.pdf) | Cisco Networking Academy |
 
 ---
 
