@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&width=800&lines=Hi+There!+%F0%9F%91%8B;I'm+Mohammad+Athar+Shareef;Multi-Cloud+%26+Security+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&width=800&lines=Hi+There!+%F0%9F%91%8B;I'm+Mohammad+Athar+Shareef;Cloud+%26+Security+Enthusiast" alt="Typing Animation" />
 </div>
 
 
 
-<h3 align="center">☁️ Multi-Cloud & Security Enthusiast | AWS | Azure | Google Cloud | IAM | Python</h3>
+<h3 align="center">☁️ Cloud & Security Enthusiast | AWS | Azure | Google Cloud | IAM | Python</h3>
 
 <p align="center">
   🎓 <b>Bachelor’s in Computer Science and Engineering (CSE)</b><br>
